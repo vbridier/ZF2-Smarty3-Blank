@@ -1,0 +1,15 @@
+{
+    "name": "vbridier/zf2-smarty3",
+    "description": "Base ZF2 + Smarty 3",
+    "require": {
+        "php": ">=5.5",
+        "zendframework/zendframework": "2.5.3",
+        "murganikolay/smarty-module": "1.2.0",
+        "zendframework/zftool": "dev-master"
+    },
+    "autoload": {
+    "classmap": [
+
+    ]
+  }
+}
